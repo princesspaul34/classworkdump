@@ -52,6 +52,7 @@ print("checking the datatype of", nameList," :::",type(nameList))
 # class work
 # verify the datatype for num, num1, genderList, numList, schoolDict, personDict, condition, and condition2
 
-
+a=type(numList)
+print(a)
 
 
