@@ -3,6 +3,7 @@ Mini Project after the completion of comments, Variable, Operators[Arithmetics, 
 Logic, Assignment], simple if-else.
 """
 
+
 """
 1. Declare a variable called "name" to receive & store your first name from user then print a greeting with it.
 2. Create two variables x and y and store any two numbers from user. Print the sum of x and y.
